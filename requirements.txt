@@ -1,0 +1,5 @@
+PyQt5
+pytubefix
+ffmpeg-python
+SpeechRecognition
+pydub
